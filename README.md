@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luca-CS
 
-- I'm a first year student at CentraleSupélec, a French leading engineering school, part of Université Paris Saclay.
+- I'm a student at CentraleSupélec, a French leading engineering school, part of Université Paris Saclay. I am currently an exchange student in the Master In Management at ESCP Business School.
 
 - Projects:
 <p>Data-visualization of the French photovoltaic network<br>
