@@ -11,11 +11,10 @@ Design and implementation of an autonomous robot using mecanum wheels<p>
 <p>Convergence, Integration and Probability<br>
 Partial Differential Equation<br>
 Quantum and Statistical Physics<br>
-Physics of waves<br>
-Modeling of complex systems<br>
-Algorithmic and Complexity<br>
-Electronic systems<br>
-Business management and financing<p>
+Statistics and Machine Learning<br>
+Algorithmics and Complexity<br>
+Financial Derivatives<br>
+Trading Strategies<p>
 
 
 
