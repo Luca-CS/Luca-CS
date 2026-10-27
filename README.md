@@ -3,6 +3,8 @@
 Élève ingénieur à CentraleSupélec. Je m'intéresse à la finance quantitative et aux outils qui tournent en local,
 souvent avec un LLM dans la boucle.
 
+Site perso : **[luca-cs.github.io](https://luca-cs.github.io)** (parcours, projets, CV).
+
 | Projet | En bref |
 |---|---|
 | [disk_manager](https://github.com/Luca-CS/disk_manager) | Gestionnaire de stockage 100 % local pour Windows : treemap, doublons, nettoyage sécurisé. Python, sans dépendance. |
